@@ -1,0 +1,3 @@
+/home/pt/CLionProjects/LR6/cmake-build-debug/CMakeFiles/LR6.dir
+/home/pt/CLionProjects/LR6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pt/CLionProjects/LR6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
